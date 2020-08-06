@@ -4,11 +4,10 @@
     light
   >
     <v-card-text>
-      <content-section
-        title="Who am I?"
-      >
-        I'm a developer born in Iran and founder of <a href="http://delix.ir/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=delix">Delix.ir</a>, <a href="https://bytegate.ir/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=bytegate">Bytegate.ir</a> and <a href="http://bobet.ir/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=bobet">Bobet.ir</a> and co-founder of <a href="https://smo.li/?utm_source=portiflo&utm_medium=link&utm_content=intro&utm_campaign=smoli">Smo.li</a>.<br>
-        I'm interested and skilled in different topics of Information Technology including programming, web development, and computer and network security.
+      <content-section title="Who am I?">
+        I am a results-oriented technologist with over 12 years of proven track record on designing, developing and implementing enterprise-class, scalable SaaS systems.
+        <!-- Bring superior team-building and management expertise on process and automation improvements to enhance IT operations and software development practices. 
+        A tendency to thrive in dynamic and fluid environments while remaining pragmatic and focused. -->
       </content-section>
       <content-section
         v-if="prouds"

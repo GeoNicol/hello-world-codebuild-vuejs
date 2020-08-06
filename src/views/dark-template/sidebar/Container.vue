@@ -7,10 +7,10 @@
       <avatar />
       <div class="text-sm-center mb-4 mt-3">
         <h1>
-          Amirreza <span class="light-blue--text text--lighten-3">Nasiri</span>
+          <span class="light-blue--text text--lighten-3">Geo Nicolaidis</span>
         </h1>
         <span>
-          A challenge-loving web developer
+          AWS Certified Solutions Architect
         </span>
       </div>
 
@@ -79,22 +79,22 @@ export default {
             {
               name: 'Email',
               icon: 'mdi-email',
-              text: 'hi@amirreza.in',
+              text: 'geo@znd.life',
             },
             {
               name: 'Website',
               icon: 'mdi-web',
-              text: 'amirreza.in',
+              text: 'geonicolaidis.com',
             },
             {
-              name: 'Birth Date',
+              name: 'Birthdate',
               icon: 'mdi-cake-variant',
-              text: 'Dec 7, 1996',
+              text: 'Jun 27, 1984',
             },
             {
-              name: 'Habitation',
+              name: 'Location',
               icon: 'mdi-map-marker',
-              text: 'Tabriz, Iran',
+              text: 'Limassol, Cyprus',
             },
           ],
         },
@@ -103,38 +103,24 @@ export default {
           items: [
             {
               icon: 'mdi-github-circle',
-              text: 'github.com/AmirrezaNasiri',
-              link: 'https://github.com/AmirrezaNasiri',
+              text: 'github.com/GeoNicol',
+              link: 'https://github.com/GeoNicol',
             },
             {
               icon: 'mdi-linkedin-box',
-              text: 'linkedin.com/in/amirreza-nasiri',
-              link: 'https://linkedin.com/in/amirreza-nasiri',
-            },
-            {
-              icon: 'mdi-twitter',
-              text: 'twitter.com/Amirreza_Nasiri',
-              link: 'https://twitter.com/Amirreza_Nasiri',
-            },
+              text: 'linkedin.com/in/geo-nicolaidis',
+              link: 'https://www.linkedin.com/in/geo-nicolaidis',
+            },           
             {
               icon: 'mdi-instagram',
-              text: 'instagram.com/amirreza.n96',
-              link: 'https://instagram.com/amirreza.n96',
+              text: 'instagram.com/geo_nicolaidis',
+              link: 'https://www.instagram.com/geo_nicolaidis',
             },
           ],
         },
         hobbies: {
           title: 'HOBBIES',
           items: [
-
-            {
-              icon: 'mdi-bullseye',
-              text: 'Getting out of Safe Zone',
-            },
-            {
-              icon: 'mdi-biohazard',
-              text: 'Challenges',
-            },
             {
               icon: 'mdi-bike',
               text: 'Cycling',
@@ -145,14 +131,14 @@ export default {
             },
             {
               icon: 'mdi-auto-fix',
-              text: 'Hacking Stuffs',
+              text: 'Hacking Thinks',
             },
             {
               icon: 'mdi-teach',
               text: 'Teaching',
             },
             {
-              icon: 'mdi-karate',
+              icon: 'mdi-soccer',
               text: 'Sports',
             },
             {
@@ -166,11 +152,7 @@ export default {
             {
               icon: 'mdi-book-open-page-variant',
               text: 'Books',
-            },
-            {
-              icon: 'mdi-android-debug-bridge',
-              text: 'Tickling Bugs!',
-            },
+            },            
           ],
         },
         languages: {
@@ -178,19 +160,15 @@ export default {
           items: [
             {
               text : 'English',
-              value: 70,
-            },
-            {
-              text : 'Turkish',
-              value: 45,
-            },
-            {
-              text : 'Azeri',
               value: 100,
             },
             {
-              text : 'Persian',
+              text : 'Greek',
               value: 100,
+            },
+            {
+              text : 'Spanish',
+              value: 33,
             },
           ],
         },
