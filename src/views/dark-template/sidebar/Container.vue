@@ -131,7 +131,7 @@ export default {
             },
             {
               icon: 'mdi-auto-fix',
-              text: 'Hacking Thinks',
+              text: 'Hacking Things',
             },
             {
               icon: 'mdi-teach',
@@ -146,9 +146,13 @@ export default {
               text: 'Music',
             },
             {
+              icon: 'mdi-cookie',
+              text: 'Cooking',
+            },
+            {
               icon: 'mdi-account-group',
               text: 'Leadership',
-            },
+            },            
             {
               icon: 'mdi-book-open-page-variant',
               text: 'Books',

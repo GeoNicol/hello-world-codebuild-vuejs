@@ -6,8 +6,6 @@
     <v-card-text>
       <content-section title="Who am I?">
         I am a results-oriented technologist with over 12 years of proven track record on designing, developing and implementing enterprise-class, scalable SaaS systems.
-        <!-- Bring superior team-building and management expertise on process and automation improvements to enhance IT operations and software development practices. 
-        A tendency to thrive in dynamic and fluid environments while remaining pragmatic and focused. -->
       </content-section>
       <content-section
         v-if="prouds"
@@ -133,7 +131,7 @@ export default {
       },
       {
         icon  : 'mdi-account-multiple',
-        text  : 'PUblished an article on Medium',
+        text  : 'Published an article on Medium',
         source: '(How I saved a company $22K per year on database costs)',
       },
     ],
@@ -166,6 +164,16 @@ export default {
         title: 'MSSQL Server',
         icon : 'mdi-microsoft-access',
         value: 80,
+      },
+      {
+        title: 'Firebase',
+        icon : 'mdi-fire',
+        value: 65,
+      },
+      {
+        title: 'ReactJS',
+        icon : 'mdi-reactjs',
+        value: 65,
       },
       { divider: true },
       {
@@ -200,26 +208,16 @@ export default {
       },
        { divider: true },
       {
-        title: 'Continuous Integration / Continuous Delivery',
-        icon : 'mdi-truck-fast',
+        title: 'Product Design',
+        icon : 'mdi-brush',
         value: 65,
       },
       {
-        title: 'Git',
+        title: 'Figma',
         icon : 'mdi-git',
         value: 67,
       },
-       { divider: true },
-      {
-        title: 'Continuous Integration / Continuous Delivery',
-        icon : 'mdi-truck-fast',
-        value: 65,
-      },
-      {
-        title: 'Git',
-        icon : 'mdi-git',
-        value: 67,
-      },
+      { divider: true },
     ],
   }),
 }
