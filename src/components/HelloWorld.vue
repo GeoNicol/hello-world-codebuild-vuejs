@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    <h1>I got deployed on S3 using CodePipeline</h1>
   </div>
 </template>
 
