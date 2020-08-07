@@ -172,7 +172,11 @@ export default {
             },
             {
               text : 'Spanish',
-              value: 33,
+              value: 35,
+            },
+            {
+              text : 'Italian',
+              value: 25,
             },
           ],
         },
